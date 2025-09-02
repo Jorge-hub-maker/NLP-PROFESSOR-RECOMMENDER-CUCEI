@@ -20,3 +20,7 @@ Thumbs.db
 venv/
 env/
 .env
+
+# Carpetas de datos en src/
+src/data/Embeddings/
+src/data/raw/
