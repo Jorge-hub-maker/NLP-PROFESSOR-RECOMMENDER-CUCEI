@@ -1,0 +1,19 @@
+{
+  "modelo": {
+    "model_choice": "multilingual_robust",
+    "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dim": 384,
+    "num_samples": 1466,
+    "batch_size": 32,
+    "normalized": true,
+    "device_used": "cuda",
+    "generation_date": "2025-08-21T00:27:28.142418"
+  },
+  "resumen_datos": {
+    "profesores_unicos": 830,
+    "departamentos": 16,
+    "divisiones": 5,
+    "rating_promedio": 7.1641520607375275,
+    "total_muestras": 1466
+  }
+}
