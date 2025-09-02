@@ -1,0 +1,22 @@
+# Datos y embeddings
+data/Embeddings/
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env
